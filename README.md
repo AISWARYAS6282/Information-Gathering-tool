@@ -1,7 +1,7 @@
 # Information Gathering Tool
 
 A lightweight CLI-based domain reconnaissance tool that resolves a website's IP address 
-and retrieves its geolocation data — city, region, country, ISP, and more.
+and retrieves its geolocation data of city, region, country, ISP, and more.
 
 Built as part of learning offensive security fundamentals and Python-based network tooling.
 
